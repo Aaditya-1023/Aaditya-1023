@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Javascript, Cloud computing, Shell scripting.**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Fullstack projects**
 
 - 💬 Ask me about **Python**
 
